@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "私たちは絶対に絶対にヨリを戻したりしない",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2026-03-15T19:35:23.242358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私たちは絶対に絶対にヨリを戻したりしない",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/01_私たちは絶対に絶対にヨリを戻したりしない_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.txt"
+    }
+  ]
+}
